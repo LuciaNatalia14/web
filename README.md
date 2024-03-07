@@ -7,8 +7,8 @@
 </head>
 <body bgcolor="#AB47BC">
 <font size="7" face="arial" color="#E1BEE7">
-	<img src="D:\PROYECTO\imagenes\turismo-mexico.jpg" width="450" height="200" align="right">
-	<img src="D:\PROYECTO\imagenes\turismo-mexico2.jpg" width="450" height="200" align="left">
+	<img src="D:\PROYECTO\imagenes\turismo-mexico.jpg" width="350" height="200" align="right">
+	<img src="D:\PROYECTO\imagenes\turismo-mexico2.jpg" width="350" height="200" align="left">
 	<center><h3>TURISMO DE MEXICO</h3></center><br>
 </font>
 <font size="3" face="arial" color="#E1BEE7" hspace="50" vspace="50">

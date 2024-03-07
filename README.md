@@ -1,4 +1,3 @@
-<a href="turismo.html"><p>PAGINA FINAL</p></a>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -6,6 +5,7 @@
 	<title>Turismo</title>
 </head>
 <body bgcolor="#AB47BC">
+<a href="turismo.html"><p>PAGINA FINAL</p></a>
 <font size="7" face="arial" color="#E1BEE7">
 	<img src="D:\PROYECTO\imagenes\turismo-mexico.jpg" width="350" height="200" align="right">
 	<img src="D:\PROYECTO\imagenes\turismo-mexico2.jpg" width="350" height="200" align="left">

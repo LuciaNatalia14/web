@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -53,6 +52,3 @@
 			<td><a href="https://www.pricetravel.com/"><img src="D:\PROYECTO\imagenes\privetravel.png"></a></td>
 		</tr>
 	</TABLE></center>
-</font>
-</body>
-</html>
